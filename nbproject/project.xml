@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>tonos</name>
+            <name>02</name>
+            <name>visual</name>
+            <name>04C</name>
+            <name>03_secuencia</name>
+            <name>04_secuencia</name>
+            <name>blink_en_c</name>
+            <name>04</name>
+            <name>03</name>
+            <name>02</name>
+            <name>01b</name>
+            <name>01a</name>
+            <name>02_mi_segundo_pic</name>
+            <name>01_mi_primer_pic</name>
+            <creation-uuid>cf1963d6-a4b5-4e47-9ba9-aeebe076d375</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../../Herramientas requeridas</sourceRootElem>
+                <sourceRootElem>../../../Contenido del curso/BOOTLOADER</sourceRootElem>
+                <sourceRootElem>../../../Contenido del curso/TECLADO/14_Teclado_4X4_tmr</sourceRootElem>
+                <sourceRootElem>.</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
